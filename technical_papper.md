@@ -1,14 +1,7 @@
 #No Sql 
-hear NoSql--Not Sql because there in sql or rdbms the data is stored inpredefined format and it is tough to add the new values 
-for example what kind of data need to saved is predefined 
-for user [name,id,number,address] these can be added but for some users if there is another info need to be added then there no scope 
-mainly to replace these kind of situations no sql is came 
-#why NoSql??
-in the above case ,with the help of nosql type data base we can store any info ,if image is added added or new address need to beadded to only 
-a spefic user not for remanig users it could not be done in sql 
-#Types
-##Document type 
-these type of data bases store data inform of Document JSON, XML, or BSON formats. Examples  MongoDB, Couchbase,comes under the document type
+hear NoSql--Not Sql because there in SQL or RDBMS the data is stored predefined format of data
+and it is tough to add new elements for spefic users only or to add any data in futher, for example what kind of data needs to be saved is predefined for the user [name,id,number,address] these can be added but for some users if there is another info need to be added then there no scope mainly to replace these kind of situations no SQL  came #why NoSql?? in the above case, with the help of NoSQL type database we can store any info,if an image is added or new address need to be added to only a spefic user, not for remaining users it could not be done in sql #Types ##Document type these type of data bases store data in form of Document JSON, XML, or BSON formats. Examples MongoDB, and Couchbase, come under the document type ref- 
+
                ref-https://www.kdnuggets.com/2021/02/understanding-nosql-database-types-column-oriented-databases.html 
                    https://www.mongodb.com/
                    
