@@ -1,20 +1,20 @@
 for question 1
-The best way to pratice a concept or to know how much you knowledge you have expain it to some one in simple English,best is to explain to kids because of why it happened? question 
+The best way to practice a concept or to know how much knowledge  have just  to explain it to someone in simple language, best is to explain to kids because of why it happened? question 
 
 for question 2
-Switch between modes when we stuck at a problem and how to come out of it by relaxing and leting barin do its defuze thinking in background when this defuze thinking is done get those ideas and implement them in the focus mode
+Switch between modes when we are stuck at a problem and how to come out of it by relaxing and letting Barin do its defuze thinking in the background when this defuze thinking is done get those ideas and implement them in the focus mode
 
 
 for question 4
-Brain bacelly have 2 modes when working and one at relaxing in working mode activity mode of thinking,but it jumps better the thought so relax it for some time to think on peace where defuze mode 
+The brain has 2 modes when working and one at relaxing in the working mode activity mode of thinking, but it jumps better the thought so relax it for some time to think in peace whereas defuze mode 
 
 
 
 for question 5
 Deconstruction of skill
-Learn enough to currect your self 
+Learn enough to current yourself 
 Remove barrier 
-Pratice 20 hours
+Practice 20 hours
  
 for question 6
-In going further I am calluclating the I can focus on and what activities can I do in the between to in crease the focus so that I don't get bored and kept motevated
+In going further I am calculating what I can focus on and what activities can I do in between to increase the focus so that I don't get bored and keep motivated
