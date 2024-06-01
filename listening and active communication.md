@@ -26,13 +26,13 @@
   - trying to find mistakes in the speaker 
   - imagine you are there in the situation
 
-When do you switch to Passive communication style in your day to day life?
+## When do you switch to Passive communication style in your day to day life?
   - when the listener is not interested or when I know that communicating with them not not improve my situation
  -  if my previous communication with a person  is not  appropriate 
 
-When do you switch into Aggressive communication styles in your day to day life?
+## When do you switch into Aggressive communication styles in your day to day life?
 - generally, I don't do Aggressive communication.
 
-How can you make your communication assertive..
+## How can you make your communication assertive..
 -- be clear about what you want or an issue you are facing , directly and respectfully ask or speak about it with the concerned person. based on their current situation 
 
