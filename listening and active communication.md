@@ -1,26 +1,26 @@
-Active Listing Strategies:
+## Active Listing Strategies:
 - don't listen to inner thoughts 
 - give some gestures 
 - rephrase the content or the subject  of the speaker to maintain the same phase
 - if have any blockage or any doubt or any mistake by the speaker, wait till the end and point them 
 - use door openers 
 
-Fisher's model:
+## Fisher's model:
  - it tells about group communication. It involves 6 steps 
  - identify the problem 
-- analyze the problem statement
-- get clarity on the outcome
-- get all the outcomes from all the members 
-- select the best possible outcome 
-- implement the solution
+ - analyze the problem statement
+ - get clarity on the outcome
+ - get all the outcomes from all the members 
+ - select the best possible outcome 
+ - implement the solution
 
-Obstacles in listening:
+## Obstacles in listening:
  - if the listener knows what the speaker is saying 
  - any physical discomfort to the listener 
  - if the listener is not in the phase 
  - if the listener loses the interested
 
-Improve listening :
+## Improve listening :
   - if the topic is out of  your context try to poke the speaker or make speaker know youare out of the contex 
   - listen as if it is a story and recall it and relate it to a problem faced or  currently facing, 
   - trying to find mistakes in the speaker 
