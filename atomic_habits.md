@@ -1,14 +1,14 @@
 ## Habits I would like to change or do less :
-  There are two habits that I would like to change: my eating habits and my phone usage. I want to eat healthier food, so I will reward or punish myself based on what I consume.
-  And for my mobile phone usage, I am planning to allocate specific times for usage and change the position or screen settings to make it less comfortable to use
+There are two habits that I would like to change: my eating habits and my phone usage. I want to eat healthier food, so I will reward or punish myself based on what I consume.
+And for my mobile phone usage, I am planning to allocate specific times for usage and change the position or screen settings to make it less comfortable to use
 
 ## The habit I would like to do more :
-     like to cook food myself and read more. So, when I have food cravings, I start cooking. For reading,
-     I calculate how much time I need to spend on my phone, and I consider why I am interested in that content. I read books or articles on those topics.
+Like to cook food myself and read more. So, when I have food cravings, I start cooking. For reading,
+I calculate how much time I need to spend on my phone, and I consider why I am interested in that content. I read books or articles on those topics.
 
 ##  Most interesting Idea :
-     Celebrating the victory for small successes or completing small tasks is essential to achieving your goals. There needs to be a behavioural change, and it is not tough; it takes time to change the environment you choose to live in. To reach your goal, habits need to be changed daily. For example, if I want to start writing, then I need to change the habit of writing simply and learn how to write.
-     Writing  grocery lists, daily to-do lists, sending messages, and many more small habit changes help to grow.
+Celebrating the victory for small successes or completing small tasks is essential to achieving your goals. There needs to be a behavioural change, and it is not tough; it takes time to change the environment you choose to live in. To reach your goal, habits need to be changed daily. For example, if I want to start writing, then I need to change the habit of writing simply and learn how to write.
+Writing  grocery lists, daily to-do lists, sending messages, and many more small habit changes help to grow.
 
  B - MAP to make making new habits easier:
  B - behaviour, M-motivation 
