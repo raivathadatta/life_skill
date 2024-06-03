@@ -9,5 +9,5 @@ Locas of control :
  it is because of my actions that made me fall. In the same way, if I achieve, it is also the response of my actions that made me achieve this.
 
  ## My actions For groth mind set :
- will be very clear about what I want to achieve, and I will break it into smaller and simpler goals with time constraints, and achieve them. 
+ Will be very clear about what I want to achieve, and I will break it into smaller and simpler goals with time constraints, and achieve them. 
  I will be very carefully observe what I am lacking, what needs to change, what stops me from doing it, and continuously monitor them and remove or change them.
